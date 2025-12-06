@@ -46,14 +46,12 @@ I covered all the **Must-Haves** and managed to add the **Nice-to-Haves** and so
 ---
 
 ## 📂 Project Architecture
-
-```text
 src/
 ├── data/        # Contains courses.json and users.json. Acts as the "database."
 ├── components/  # Broken down into Sidebar, ContentArea, Welcome, and Admin to keep code clean.
 └── utils/       # progress.js: Logic for calculating progress percentages and handling file imports/exports.
 
-## ⚡ How to Run Locally (Step-by-Step)
+⚡ How to Run Locally (Step-by-Step)
 
 Follow these commands to run the project on your machine:
 
