@@ -4,7 +4,7 @@ This is my submission for the React Intern Take-Home Assignment.
 I built a Course Learning Platform where users can browse topics, read lessons, and track their progress. Since the requirement was "Client-only," I focused heavily on a smooth UI/UX and used LocalStorage to make the app feel like a real product.
 
 🚀 Live Demo
-[Insert Your Vercel Link Here]
+[https://react-assignment-sage-omega.vercel.app/]
 
 🛠️ Tech Stack
 Framework: React + Vite
