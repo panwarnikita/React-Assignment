@@ -120,7 +120,7 @@ const Welcome = () => {
         })}
       </div>
 
-      {/* FEATURE CARDS (WAPIS AA GAYE) */}
+      {/* FEATURE CARDS*/}
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pb-12">
         <div className="bg-white p-8 rounded-2xl border border-gray-200 shadow-sm text-center flex flex-col items-center hover:border-blue-300 transition-colors group">
           <div className="p-4 bg-blue-50 text-blue-600 rounded-full mb-4 group-hover:scale-110 transition-transform">
