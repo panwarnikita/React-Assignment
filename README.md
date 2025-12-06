@@ -62,7 +62,7 @@ src/utils/progress.js: I separated the logic for calculating progress percentage
 ⚡ How to Run Locally
 Clone the repository:
 
-git clone <your-repo-link>
+git clone <https://github.com/panwarnikita/React-Assignment.git>
 Install dependencies:
 
 
